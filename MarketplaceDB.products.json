@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "653721489777ca87d2d4fce7"
+  },
+  "id": 1,
+  "name": "jeans",
+  "description": "bottom",
+  "price": 20,
+  "qauntity": 200,
+  "category": "clothing"
+},
+{
+  "_id": {
+    "$oid": "653721bb9777ca87d2d4fce8"
+  },
+  "id": 1,
+  "name": "jacket",
+  "description": "cold",
+  "price": 22,
+  "qauntity": 200,
+  "category": "clothing"
+},
+{
+  "_id": {
+    "$oid": "653721cf9777ca87d2d4fce9"
+  },
+  "id": 1,
+  "name": "shorts",
+  "description": "warm",
+  "price": 23,
+  "qauntity": 200,
+  "category": "clothing"
+},
+{
+  "_id": {
+    "$oid": "653721e19777ca87d2d4fcea"
+  },
+  "id": 1,
+  "name": "dress",
+  "description": "hot",
+  "price": 45,
+  "qauntity": 200,
+  "category": "clothing"
+},
+{
+  "_id": 7,
+  "message": "Welcome to our store"
+}]
